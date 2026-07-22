@@ -1,0 +1,14 @@
+<resources>
+    <color name="calc_background">#FF121212</color>
+    <color name="calc_display_text">#FFFFFFFF</color>
+    <color name="calc_expression_text">#FF9E9E9E</color>
+    <color name="calc_operator">#FFFF9500</color>
+    <color name="calc_operator_ripple">#FFFFC880</color>
+    <color name="calc_operator_text">#FFFFFFFF</color>
+    <color name="calc_function">#FFA5A5A5</color>
+    <color name="calc_function_ripple">#FFD6D6D6</color>
+    <color name="calc_function_text">#FF000000</color>
+    <color name="calc_digit">#FF333333</color>
+    <color name="calc_digit_ripple">#FF4D4D4D</color>
+    <color name="calc_digit_text">#FFFFFFFF</color>
+</resources>
